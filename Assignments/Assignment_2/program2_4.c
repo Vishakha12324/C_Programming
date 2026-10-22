@@ -1,3 +1,14 @@
+/////////////////////////////////////////////////////////////////////////
+//
+//  Function Name : Display
+//  Input         : Integer, Integer 
+//  Output        : Void 
+//  Description   : Displays first number that specified number of times
+//  Date          : 21/10/2026
+//  Author        : Vishakha Vijay Jadhav
+//
+/////////////////////////////////////////////////////////////////////////
+
 #include<stdio.h>
 #include<stdlib.h>
 

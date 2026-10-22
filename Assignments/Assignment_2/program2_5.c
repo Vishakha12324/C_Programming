@@ -1,3 +1,13 @@
+/////////////////////////////////////////////////////////////////////////
+//
+//  Function Name : ChkEven
+//  Input         : Integer
+//  Output        : Boolean
+//  Description   : Checks whether given number is Even
+//  Date          : 21/10/2026
+//  Author        : Vishakha Vijay Jadhav
+//
+/////////////////////////////////////////////////////////////////////////
 #include<stdio.h>
 #include<stdlib.h>
 

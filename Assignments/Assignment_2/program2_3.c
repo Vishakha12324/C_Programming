@@ -1,3 +1,13 @@
+/////////////////////////////////////////////////////////////////////////
+//
+//  Function Name : Display
+//  Input         : Integer 
+//  Output        : Void 
+//  Description   : Displays "Hello" if number is less than 10, otherwise displays "Demo"
+//  Date          : 21/10/2026
+//  Author        : Vishakha Vijay Jadhav
+//
+/////////////////////////////////////////////////////////////////////////
 #include<stdio.h>
 
 void Display(int iNo)

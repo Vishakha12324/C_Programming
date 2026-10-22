@@ -1,3 +1,13 @@
+/////////////////////////////////////////////////////////////////////////
+//
+//  Function Name : Display
+//  Input         : Integer 
+//  Output        : Void 
+//  Description   : Displays the specified number of stars
+//  Date          : 21/10/2026
+//  Author        : Vishakha Vijay Jadhav
+//
+/////////////////////////////////////////////////////////////////////////
 #include<stdio.h>
 
 void Display(int iNo)

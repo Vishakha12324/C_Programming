@@ -1,8 +1,8 @@
 /////////////////////////////////////////////////////////////////////////
 //
 //  Function Name :CalculatBonus
-//  Input         :Float(fSalary), Integer(iYears)
-//  Output        :Voidc
+//  Input         :Float, Integer
+//  Output        :Void
 //  Description   :Calculates bonus based on salary and years of service
 //  Date          :22/10/2026
 //  Author        :Vishakha Vijay Jadhav

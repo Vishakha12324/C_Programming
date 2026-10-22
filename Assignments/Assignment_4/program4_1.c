@@ -1,3 +1,13 @@
+/////////////////////////////////////////////////////////////////////////
+//
+//  Function Name :CheckNumber
+//  Input         :Integer
+//  Output        :Void
+//  Description   :Checks Whether a Number Is Positive or Nigative
+//  Date          :22/10/2026
+//  Author        :Vishakha Vijay Jadhav
+//
+/////////////////////////////////////////////////////////////////////////
 #include<stdio.h>
 
 void CheckNumber(int iNo)

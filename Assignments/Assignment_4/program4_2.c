@@ -1,3 +1,14 @@
+/////////////////////////////////////////////////////////////////////////
+//
+//  Function Name :CheckEvenOdd
+//  Input         :Integer
+//  Output        :Void
+//  Description   :Checks Even or Odd Number
+//  Date          :22/10/2026
+//  Author        :Vishakha Vijay Jadhav
+//
+/////////////////////////////////////////////////////////////////////////
+
 #include<stdio.h>
 #include<stdlib.h>
 

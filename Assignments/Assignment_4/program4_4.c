@@ -1,3 +1,13 @@
+/////////////////////////////////////////////////////////////////////////
+//
+//  Function Name :CheckVotingEligibility
+//  Input         :Integer
+//  Output        :Void
+//  Description   :Checks Voting Eligibility
+//  Date          :22/10/2026
+//  Author        :Vishakha Vijay Jadhav
+//
+/////////////////////////////////////////////////////////////////////////
 #include<stdio.h>
 #include<stdlib.h>
 

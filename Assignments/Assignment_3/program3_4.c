@@ -1,3 +1,14 @@
+/////////////////////////////////////////////////////////////////////////
+//
+//  Function Name :DisplayCovert
+//  Input         :Character
+//  Output        :Void
+//  Description   :Accepts one character from user and convert case of that character
+//  Date          :21/10/2026
+//  Author        :Vishakha Vijay Jadhav
+//
+/////////////////////////////////////////////////////////////////////////
+#include<stdio.h>
 #include<stdio.h>
 
 void DisplayConvert(char CValue)

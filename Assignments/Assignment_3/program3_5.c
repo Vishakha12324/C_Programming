@@ -1,3 +1,14 @@
+/////////////////////////////////////////////////////////////////////////
+//
+//  Function Name :ChkVowel
+//  Input         :Character
+//  Output        :Boolean
+//  Description   :Checks whether the given character is vowel
+//  Date          :21/10/2026
+//  Author        :Vishakha Vijay Jadhav
+//
+/////////////////////////////////////////////////////////////////////////
+#include<stdio.h>
 #include<stdio.h>
 
 typedef int BOOL;

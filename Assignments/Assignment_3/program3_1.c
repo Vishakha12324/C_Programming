@@ -1,5 +1,15 @@
-#include<stdio.h>
+/////////////////////////////////////////////////////////////////////////
+//
+//  Function Name :PrintEven
+//  Input         :Integer
+//  Output        :Void
+//  Description   :Accepts one number from user and prints that number of even numbers
+//  Date          :21/10/2026
+//  Author        :Vishakha Vijay Jadhav
+//
+/////////////////////////////////////////////////////////////////////////
 
+#include<stdio.h>
 
 void PrintEven(int iNo)
 {

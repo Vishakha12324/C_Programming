@@ -1,5 +1,14 @@
+/////////////////////////////////////////////////////////////////////////
+//
+//  Function Name :DisplayFactor
+//  Input         :Integer
+//  Output        :Void
+//  Description   :Prints  factors of given input
+//  Date          :21/10/2026
+//  Author        :Vishakha Vijay Jadhav
+//
+/////////////////////////////////////////////////////////////////////////
 #include<stdio.h>
-
 
 void DisplayFactor(int iNo)
 {

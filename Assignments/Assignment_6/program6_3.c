@@ -1,3 +1,14 @@
+/////////////////////////////////////////////////////////////////////////
+//
+//  Function Name :CalculatDiscount
+//  Input         :Integer(Amount)
+//  Output        :void
+//  Description   :Calculates Discount  based on purchase amount
+//  Date          :22/10/2026
+//  Author        :Vishakha Vijay Jadhav
+//
+/////////////////////////////////////////////////////////////////////////
+
 #include<stdio.h>
 #include<stdlib.h>
 

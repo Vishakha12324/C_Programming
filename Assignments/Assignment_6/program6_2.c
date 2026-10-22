@@ -1,7 +1,18 @@
+/////////////////////////////////////////////////////////////////////////
+//
+//  Function Name :CheckAdmission
+//  Input         :Float(Marks) , Integer(Age)
+//  Output        :void
+//  Description   :Checks admission eligibility based on marks and age
+//  Date          :22/10/2026
+//  Author        :Vishakha Vijay Jadhav
+//
+/////////////////////////////////////////////////////////////////////////
+
 #include<stdio.h>
 #include<stdlib.h>
 
-void CalculateElectricityBill(float fMarks,int iAge)
+void CheckAdmission(float fMarks,int iAge)
 {
     if(fMarks < 0 || fMarks >100 || iAge<0)
     {
@@ -25,7 +36,7 @@ int main()
     printf("Enter marks and age: ");
     scanf("%f %d", &fMarks, &iAge);
 
-    CalculateElectricityBill(fMarks, iAge);
+    CheckAdmission(fMarks, iAge);
 
     return EXIT_SUCCESS;
 }

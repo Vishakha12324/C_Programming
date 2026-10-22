@@ -1,3 +1,12 @@
+/////////////////////////////////////////////////////////////////////////
+//
+//  Function Name : Display
+//  Output        : Void
+//  Description   : Prints  "Marvellous" five times on screen
+//  Date          : 21/10/2026
+//  Author        : Vishakha Vijay Jadhav
+//
+/////////////////////////////////////////////////////////////////////////
 #include<stdio.h>
 
 void Display()

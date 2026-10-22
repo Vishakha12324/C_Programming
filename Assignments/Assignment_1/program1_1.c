@@ -1,3 +1,13 @@
+/////////////////////////////////////////////////////////////////////////
+//
+//  Function Name : Divide
+//  Input         : Integer, Integer
+//  Output        : Integer 
+//  Description   : Divides the first number by the second number
+//  Date          : 21/10/2026
+//  Author        : Vishakha Vijay Jadhav
+//
+/////////////////////////////////////////////////////////////////////////
 #include<stdio.h>
 #include<stdlib.h>
 

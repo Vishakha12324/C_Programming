@@ -26,7 +26,7 @@ int main()
     printf("Enter number :");
     scanf("%d",&iValue);
 
-    bRet = ChkEven(iValue);
+    bRet = Check(iValue);
 
     if(bRet == TRUE)
     {

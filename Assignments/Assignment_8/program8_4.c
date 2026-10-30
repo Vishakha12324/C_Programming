@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////////////
 //
-//  Function Name :MultipleDisplay
+//  Function Name :Table
 //  Input         :Integer
 //  Output        :Void
 //  Description   :Accept a number and display table of that number

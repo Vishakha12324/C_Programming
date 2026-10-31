@@ -1,0 +1,36 @@
+/////////////////////////////////////////////////////////////////////////
+//
+//  Function Name : KMtoMeter
+//  Input         : Integer
+//  Output        : Integer
+//  Description   : Accept distance in kilometres and return distance in metres
+//  Date          : 01/11/2026
+//  Author        : Vishakha Vijay Jadhav
+//
+/////////////////////////////////////////////////////////////////////////
+
+#include<stdio.h>
+
+int KMtoMeter(int iNo)
+{
+    int iMeter = 0;
+    iMeter = iNo * 1000 ;
+    
+    return iMeter;  
+}
+
+
+int main()
+{
+    int iValue = 0, iRet = 0;
+    
+
+    printf("Enter distance:");
+    scanf("%d",&iValue);
+
+    iRet = KMtoMeter(iValue);
+    
+    printf("KM to meter is %d", iRet);
+
+    return 0;
+}

@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////////////////
 //
-//  Function Name : pattern
+//  Function Name : FirstChar
 //  Input         : Integer Integer
 //  Output        : void
 //  Description   : Accept a string from user and accept one character . return index of first occurance of that character.

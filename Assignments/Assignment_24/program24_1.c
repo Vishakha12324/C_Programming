@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////////////////
 //
-//  Function Name : pattern
+//  Function Name : ChkChar
 //  Input         : Integer Integer
 //  Output        : void
 //  Description   : Accept a string and character from user and check whether that character is present in string or not.

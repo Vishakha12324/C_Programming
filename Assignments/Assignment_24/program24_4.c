@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////////////////
 //
-//  Function Name : pattern
+//  Function Name : LastChar
 //  Input         : Integer Integer
 //  Output        : void
 //  Description   : Accept a string from user and accept one character . return index of last occurance of that character.

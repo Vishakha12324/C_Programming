@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////////////////
 //
-//  Function Name : pattern
+//  Function Name : StrRevX
 //  Input         : Integer Integer
 //  Output        : void
 //  Description   : Accept a string from user and reverse the string.

@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////////////////
 //
-//  Function Name : pattern
+//  Function Name : CuntChar
 //  Input         : Integer Integer
 //  Output        : void
 //  Description   : Accept a string from user and accept one character and return the frequency of that character.

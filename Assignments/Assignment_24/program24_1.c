@@ -4,6 +4,7 @@
 //  Input         : string character
 //  Output        : bool
 //  Description   : Accept a string and character from user and check whether that character is present in string or not.
+//  Date          : 12/11/2026
 //  Author        : Vishakha vijay jadhav
 //
 /////////////////////////////////////////////////////////////////////////////

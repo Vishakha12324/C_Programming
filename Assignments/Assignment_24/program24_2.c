@@ -4,7 +4,7 @@
 //  Input         : string character
 //  Output        : int
 //  Description   : Accept a string from user and accept one character and return the frequency of that character.
-//  Date          : 11/11/2026
+//  Date          : 12/11/2026
 //  Author        : Vishakha vijay jadhav
 //
 /////////////////////////////////////////////////////////////////////////////

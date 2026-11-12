@@ -1,8 +1,8 @@
 /////////////////////////////////////////////////////////////////////////////
 //
 //  Function Name : LastChar
-//  Input         : Integer Integer
-//  Output        : void
+//  Input         : string character
+//  Output        : integer
 //  Description   : Accept a string from user and accept one character . return index of last occurance of that character.
 //  Date          : 12/11/2026
 //  Author        : Vishakha vijay jadhav

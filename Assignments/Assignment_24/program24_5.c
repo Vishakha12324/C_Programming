@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////////////////
 //
 //  Function Name : StrRevX
-//  Input         : Integer Integer
+//  Input         : string
 //  Output        : void
 //  Description   : Accept a string from user and reverse the string.
 //  Date          : 12/11/2026

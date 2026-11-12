@@ -1,8 +1,8 @@
 /////////////////////////////////////////////////////////////////////////////
 //
 //  Function Name : CuntChar
-//  Input         : Integer Integer
-//  Output        : void
+//  Input         : string character
+//  Output        : int
 //  Description   : Accept a string from user and accept one character and return the frequency of that character.
 //  Date          : 11/11/2026
 //  Author        : Vishakha vijay jadhav

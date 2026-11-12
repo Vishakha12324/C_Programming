@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////////////////
 //
-//  Function Name : pattern
-//  Input         : Integer Integer
+//  Function Name : DisplayDigit
+//  Input         : string 
 //  Output        : void
 //  Description   : Accept a string from user and print digits from it.
 //  Date          : 11/11/2026

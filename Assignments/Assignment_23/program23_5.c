@@ -1,8 +1,8 @@
 /////////////////////////////////////////////////////////////////////////////
 //
-//  Function Name : pattern
-//  Input         : Integer Integer
-//  Output        : void
+//  Function Name : CountWhite
+//  Input         : String
+//  Output        : integer
 //  Description   : Accept a string from user and count white spaces in it.
 //  Date          : 11/11/2026
 //  Author        : Vishakha vijay jadhav

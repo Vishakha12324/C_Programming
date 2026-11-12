@@ -1,8 +1,8 @@
 /////////////////////////////////////////////////////////////////////////////
 //
 //  Function Name : ChkChar
-//  Input         : Integer Integer
-//  Output        : void
+//  Input         : string character
+//  Output        : bool
 //  Description   : Accept a string and character from user and check whether that character is present in string or not.
 //  Author        : Vishakha vijay jadhav
 //

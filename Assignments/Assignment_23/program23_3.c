@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////////////////
 //
-//  Function Name : pattern
-//  Input         : Integer Integer
+//  Function Name : strtogglex
+//  Input         : string
 //  Output        : void
 //  Description   : Accept a string from user and toggle the case.
 //  Date          : 11/11/2026

@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////////////////
 //
 //  Function Name : pattern
-//  Input         : Integer Integer
+//  Input         : Integer 
 //  Output        : void
 //  Description   : Accept number of elements from user and print specific pattern
 //  Date          : 10/11/2026

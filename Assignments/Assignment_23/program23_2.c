@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////////////////
 //
-//  Function Name : pattern
-//  Input         : Integer Integer
+//  Function Name : struprx
+//  Input         : string
 //  Output        : void
 //  Description   : Accept a string from user and convert it into upper case.
 //  Date          : 11/11/2026

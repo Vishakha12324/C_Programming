@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////////////////
 //
-//  Function Name : pattern
-//  Input         : Integer Integer
+//  Function Name : strlwrx
+//  Input         : string
 //  Output        : void
 //  Description   : Accept a string from user and convert it into lower case.
 //  Date          : 11/11/2026

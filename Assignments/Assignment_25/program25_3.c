@@ -4,6 +4,7 @@
 //  Input         : Character
 //  Output        : BOOLEAN
 //  Description   : Accept a character from user and check whether it is digit or not.
+//  Date          : 13/11/2026
 //  Author        : Vishakha vijay jadhav
 //
 /////////////////////////////////////////////////////////////////////////////
